@@ -1,4 +1,4 @@
 
 export class Rebaser {
-    
+    constructor() { }
 }
